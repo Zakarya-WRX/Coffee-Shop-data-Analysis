@@ -20,7 +20,7 @@ To run the project on your machine, follow these steps:
 
 1. Clone the project to your machine using Git:
 
-   git clone https://github.com/Zakarya-WRX/Coffee-Shop-data-Analysis/new/main?filename=README.md
+   git clone https://github.com/Zakarya-WRX/Coffee-Shop-data-Analysis
 
 2. Install the dependencies:
 
